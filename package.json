@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/bqqbarbhg/pre-eval-loader/issues"
   },
-  "homepage": "https://github.com/bqqbarbhg/pre-eval-loader#readme"
+  "homepage": "https://github.com/bqqbarbhg/pre-eval-loader#readme",
+  "dependencies": {
+    "eval": "^0.1.2"
+  }
 }
